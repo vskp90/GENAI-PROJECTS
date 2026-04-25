@@ -1,0 +1,1 @@
+print("Experiment 6 working code placeholder - ready for GitHub")
